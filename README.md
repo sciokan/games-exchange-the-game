@@ -3,4 +3,4 @@ A small JavaScript RPG about visiting our shop.  Filled with terrifing bad guys,
 
 # Play the game here!
 
-https://sciokan.github.io/javascript-games-exchange-the-game/
+https://sciokan.github.io/games-exchange-the-game/
